@@ -1,4 +1,4 @@
-# C#, .NET, Unity 💎🔥
+# C#, Gamedev, Unity 💎🔥
 
 Hello! I am Max, a game programmer **C#** in the **Unity engine**. ![visitors](https://visitor-badge.glitch.me/badge?page_id=VasilevMaxim.VasilevMaxim)
 
