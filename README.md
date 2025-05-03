@@ -1,19 +1,18 @@
-# C#, Gamedev, Unity 💎🔥
+# C#, Backend, Unity 💻🔥
 
-Hello! I am Max, a game programmer **C#** in the **Unity engine**. ![visitors](https://visitor-badge.glitch.me/badge?page_id=VasilevMaxim.VasilevMaxim)
+Hello! I’m Max, a **Middle C# Developer** working across **Backend and Unity** systems.
 
 --------------
-- 🍇 I work at KishMish Games studio on Metro Simulator and other company games.
-- 🔨 I am interested in creating artificial intelligence and implementing it into games;
-- 🌌 Application architecture design;
-- 💣 GoF design patterns, other patterns.
+- 🎯 6+ years in C# development: backend systems, unity games, real-time simulations, and CI/CD pipelines;
+- 🧠 Experience with PostgreSQL, Redis, gRPC, GraphQL, Kafka, Docker, Prometheus, and more;
+- 🔄 Transitioning from Unity gamedev to backend microservices (Ozon Route256 graduate);
+- 🚀 Contributor to open source MVVM framework for Unity.
 --------------
 
 <p align="center">
   
-<a href="maksa43rus1@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/Email-maksa43rus1@yandex.ru-blue?style=flat-square&logo=gmail"></a>
-<a href="https://vk.com/vasilevc"><img alt="VK" src="https://img.shields.io/badge/VK-Vasilev-blue?style=flat-square&logo=vk"></a>
-<a href="https://www.youtube.com/channel/UC4JFM-yk2xbOfT4zjaeH8qA/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Vasilev-blue?style=flat-square&logo=Youtube"></a>
+<a href="mailto:maksa43rus1@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/Email-maksa43rus1@yandex.ru-blue?style=flat-square&logo=gmail"></a>
+<a href="https://t.me/MinutriNet"><img alt="Telegram" src="https://img.shields.io/badge/VK-Vasilev-blue?style=flat-square&logo=vk"></a>
 
 </p>
 
@@ -21,5 +20,9 @@ Hello! I am Max, a game programmer **C#** in the **Unity engine**. ![visitors](h
 
 Take a look:
 
-- 💢 Minimax AI: https://github.com/VasilevMaxim/MinimaxAI
-- 💢 Translator Go: https://github.com/VasilevMaxim/TranslatorGo
+- 🧩 Skills Graph Editor (custom MVVM): https://github.com/VasilevMaxim/graph-skills  
+- 🛠️ Minimax AI in Unity: https://github.com/VasilevMaxim/MinimaxAI
+- ⚙️ Part Go to MASM Compiler: https://github.com/VasilevMaxim/TranslatorGo
+- 🎯 Contributor: https://github.com/LibraStack/UnityMvvmToolkit
+- 🏭 Industrial VR/AR simulators (Sitronics): complex backend + Unity, passed official certification  
+- 🎮 Check Inn, Fly Corp, Metro Simulator 2 (KishMish Games): gameplay and tooling systems.
