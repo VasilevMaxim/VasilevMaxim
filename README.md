@@ -12,7 +12,7 @@ Hello! I’m Max, a **Middle C# Developer** working across **Backend and Unity**
 <p align="center">
   
 <a href="mailto:maksa43rus1@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/Email-maksa43rus1@yandex.ru-blue?style=flat-square&logo=gmail"></a>
-<a href="https://t.me/MinutriNet"><img alt="Telegram" src="https://img.shields.io/badge/VK-Vasilev-blue?style=flat-square&logo=vk"></a>
+<a href="https://t.me/MinutriNet"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Vasilev-blue?style=flat-square&logo=Telegram"></a>
 
 </p>
 
